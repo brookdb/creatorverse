@@ -43,7 +43,8 @@ Here's a walkthrough of implemented required features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ... 👉🏿 GIF tool here
+GIF created with ... 👉🏿 Kap
+![Alt text] (https://i.postimg.cc/3RYrZgKv/Kapture-2024-08-01-at-14-01-15.gif)
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -52,8 +53,9 @@ GIF created with ... 👉🏿 GIF tool here
 
 ## Notes
 
-- Initially I wanted to display follower count of the creator on social media but time was not on my side.
+- I wanted to display follower count of the creator on their social media but time was not on my side.
 - some image sizes don't render well as a circular image on the creator tile.
+- I also couldn't figure out how to use scss on vite to override the default bootstrap colors
 ## License
 
 Copyright [👉🏿 2024] [👉🏿 Brook Daba]
