@@ -44,7 +44,7 @@ Here's a walkthrough of implemented required features:
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with ... 👉🏿 Kap
-![Alt text] (https://i.postimg.cc/3RYrZgKv/Kapture-2024-08-01-at-14-01-15.gif)
+![] (https://i.postimg.cc/3RYrZgKv/Kapture-2024-08-01-at-14-01-15.gif)
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
