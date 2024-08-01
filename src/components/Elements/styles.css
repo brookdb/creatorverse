@@ -1,0 +1,25 @@
+.list-tile-options {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.list-tile-options button:first-child {
+  margin-block-end: 0;
+}
+.footer {
+  background: #008080;
+  color: wheat;
+}
+.footer a {
+  color: wheat;
+  font-style: italic;
+}
+.footer a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 576px) {
+  .list-tile-options {
+    width: 100%;
+  }
+}

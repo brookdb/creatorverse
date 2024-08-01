@@ -1,0 +1,62 @@
+.searchbar-wrapper {
+  margin-top: 20px;
+  margin-bottom: 28px;
+}
+.landing-hero {
+  height: calc(100vh - 56px);
+  background-image: url(https://i.postimg.cc/x8L3K38z/Gemini-Generated-Image-7opgdt7opgdt7opg.jpg);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.landing-hero .row {
+  align-items: center;
+}
+.landing-hero .logo {
+  display: flex;
+  justify-content: center;
+}
+.landing-hero h1 {
+  color: wheat;
+}
+
+.landing-list .text-item {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.landing-list .text-item h1 {
+  font-size: 4.55em;
+}
+.landing-list .text-item button {
+  height: 60px;
+  margin-top: 20px;
+}
+.landing-list .creator {
+  margin-bottom: 20px;
+}
+
+.edit-creator input {
+  margin-bottom: 12px;
+}
+.creator-page-wrapper {
+  min-height: calc(100vh - 55px);
+}
+@media (max-width: 768px) {
+  .icon-text {
+    display: none;
+  }
+  .landing-hero .logo {
+    display: flex;
+    justify-content: right;
+    margin-right: 30px;
+  }
+  .landing-list .text-item h1 {
+    font-size: 2.55em;
+  }
+  .landing-list .text-item button .icon-text {
+    display: inline-block;
+  }
+}
