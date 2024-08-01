@@ -43,7 +43,8 @@ Here's a walkthrough of implemented required features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ... 👉🏿 GIF tool here
+GIF created with ... 👉🏿 Kap
+![Alt text] (demo.gif)
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
