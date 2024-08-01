@@ -2,7 +2,7 @@
 
 Submitted by: **👉🏿 Brook Daba**
 
-About this web app: **👉🏿 This is a web app that lets you showcase your favorite creaters. It's build with React and Supabase**
+About this web app: **👉🏿 This is a web app that lets you showcase your favorite creaters. It's built with React and Supabase**
 
 Time spent: **👉🏿 12** hours
 
