@@ -4,6 +4,8 @@ Submitted by: **👉🏿 Brook Daba**
 
 About this web app: **👉🏿 This is a web app that lets you showcase your favorite creaters. It's built with React and Supabase**
 
+<a href="https://vitejsvitevcxmjv-kqdx--5173--41692973.local-credentialless.webcontainer.io/" >Live Demo</a>
+
 Time spent: **👉🏿 12** hours
 
 ## Required Features
@@ -57,6 +59,7 @@ GIF created with ... 👉🏿 Kap
 - I wanted to display follower count of the creator on their social media but time was not on my side.
 - some image sizes don't render well as a circular image on the creator tile.
 - I also couldn't figure out how to use scss on vite to override the default bootstrap colors
+
 ## License
 
 Copyright [👉🏿 2024] [👉🏿 Brook Daba]
