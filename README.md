@@ -39,6 +39,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+![](https://github.com/brookdb/creatorverse/blob/main/demo.gif)
+
 👉🏿<img src='https://i.postimg.cc/3RYrZgKv/Kapture-2024-08-01-at-14-01-15.gif' title='Video Walkthrough' width='314' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
